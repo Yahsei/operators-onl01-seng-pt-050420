@@ -7,3 +7,4 @@ elsif speed < 40
 else 
   "unsafe"
 end
+end
